@@ -1,9 +1,0 @@
-{
-  "presets": ["@emotion/babel-preset-css-prop"],
-  "plugins": [
-    "emotion",
-    ["@babel/plugin-transform-react-jsx", {
-      "pragmaFrag": "Fragment",
-    }]
-  ]
-}
